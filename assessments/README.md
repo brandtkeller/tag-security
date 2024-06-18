@@ -4,7 +4,7 @@
 
 The [TAG-Security Security Assessment Process](guide) (formerly the security 
 review process) is designed to accelerate the adoption of cloud native 
-technologies, based on the below goals and assumptions.
+technologies, based on the following goals and assumptions.
 
 ### 1) Reduce risk across the ecosystem
 
@@ -96,7 +96,7 @@ diligence.
 ### Use of a completed TSSA package
 
 A finalized TSSA package may be used by the community to assist in
-the contextual review of a project but are not an endorsement of the
+the contextual review of a project but is  not an endorsement of the
 security of the project, not a security audit of the project, and do not relieve
 an individual or organization from performing their own due diligence and
 complying with laws, regulations, and policies.

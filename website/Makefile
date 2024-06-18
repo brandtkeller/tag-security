@@ -4,6 +4,7 @@ deps:
 	# Move select content from the root level into the website directory.
 	rsync -avv ../ root/ \
 	--include='assessments' --include='assessments/**' \
+	--include='events' --include='events/**' \
 	--include='governance' --include='governance/**' \
 	--include='publications' --include='publications/**' \
 	--include='*.md' --exclude='*'

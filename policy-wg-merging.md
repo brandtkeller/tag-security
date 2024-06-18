@@ -12,7 +12,7 @@ Key Deliverables
 
 - Cloud Native Policy Architecture White Paper
 - Container Policy Interface implementations
-- Various feature requests to projects like kubernetes, opa, istio, spifee, and more.
+- Various feature requests to projects like kubernetes, opa, istio, spiffe, and more.
 
 Way forward on merging with SAFE WG
 ===================================
